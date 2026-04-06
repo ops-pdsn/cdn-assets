@@ -1,12 +1,13 @@
 [
   {
     "id": "gi-001",
-    "image": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/images/coporate1.webp",
+    "image": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/images/gallery/1775474507706-img_9269.jpg",
     "category": "Metro & Transit Branding",
     "title": "Aqua Line Metro — Full Station Brand Experience",
     "description": "An end-to-end transit branding execution across key Aqua Line metro stations. Integrated digital screens, PSDs, and display units were conceptualised, fabricated, and installed by our team.",
     "year": "2024",
-    "featured": true
+    "featured": true,
+    "updatedAt": "2026-04-06T11:22:00.070Z"
   },
   {
     "id": "gi-002",
