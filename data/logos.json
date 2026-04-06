@@ -1,20 +1,110 @@
 [
-  { "id": "lg-1",  "name": "Laser Technologies",  "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/LaserT.webp",           "order": 0 },
-  { "id": "lg-2",  "name": "NBC Bearings",         "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/nbc.webp",               "order": 1 },
-  { "id": "lg-3",  "name": "Solution One ERP",     "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/SolutionOne.webp",        "order": 2 },
-  { "id": "lg-4",  "name": "SBI",                  "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/sbi_blue_logo.webp",      "order": 3 },
-  { "id": "lg-5",  "name": "New India Assurance",  "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/nialogo.webp",            "order": 4 },
-  { "id": "lg-6",  "name": "Bank of India",        "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/BOI.webp",                "order": 5 },
-  { "id": "lg-7",  "name": "Central Bank of India","logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/central_Bank_logo.webp",  "order": 6 },
-  { "id": "lg-8",  "name": "Borosil",              "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/Borosil.webp",            "order": 7 },
-  { "id": "lg-9",  "name": "Red FM",               "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/redfmlogonew.webp",       "order": 8 },
-  { "id": "lg-10", "name": "Ajanta Pharma",        "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/Ajanta%20Pharma.webp",    "order": 9 },
-  { "id": "lg-11", "name": "AmiPoly",              "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/AmiPoly.webp",            "order": 10 },
-  { "id": "lg-12", "name": "Bajaj",                "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/Bajaj.webp",              "order": 11 },
-  { "id": "lg-13", "name": "Zuventus",             "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/Zuventus.webp",           "order": 12 },
-  { "id": "lg-14", "name": "Argen",                "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/Argen.webp",              "order": 13 },
-  { "id": "lg-15", "name": "Cosmos",               "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/Cosmos.webp",             "order": 14 },
-  { "id": "lg-16", "name": "Diamond Protech",      "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/DP.webp",                 "order": 15 },
-  { "id": "lg-17", "name": "Goel Group",           "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/Goel.webp",               "order": 16 },
-  { "id": "lg-18", "name": "GOG",                  "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/GOG.webp",                "order": 17 }
+  {
+    "id": "lg-1",
+    "name": "Laser Technologies",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/LaserT.webp",
+    "order": 0
+  },
+  {
+    "id": "lg-2",
+    "name": "NBC Bearings",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/nbc.webp",
+    "order": 1
+  },
+  {
+    "id": "lg-4",
+    "name": "SBI",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/sbi_blue_logo.webp",
+    "order": 2
+  },
+  {
+    "id": "lg-3",
+    "name": "Solution One ERP",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/SolutionOne.webp",
+    "order": 3
+  },
+  {
+    "id": "lg-5",
+    "name": "New India Assurance",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/nialogo.webp",
+    "order": 4
+  },
+  {
+    "id": "lg-6",
+    "name": "Bank of India",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/BOI.webp",
+    "order": 5
+  },
+  {
+    "id": "lg-7",
+    "name": "Central Bank of India",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/central_Bank_logo.webp",
+    "order": 6
+  },
+  {
+    "id": "lg-8",
+    "name": "Borosil",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/Borosil.webp",
+    "order": 7
+  },
+  {
+    "id": "lg-9",
+    "name": "Red FM",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/redfmlogonew.webp",
+    "order": 8
+  },
+  {
+    "id": "lg-10",
+    "name": "Ajanta Pharma",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/Ajanta%20Pharma.webp",
+    "order": 9
+  },
+  {
+    "id": "lg-11",
+    "name": "AmiPoly",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/AmiPoly.webp",
+    "order": 10
+  },
+  {
+    "id": "lg-12",
+    "name": "Bajaj",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/Bajaj.webp",
+    "order": 11
+  },
+  {
+    "id": "lg-13",
+    "name": "Zuventus",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/Zuventus.webp",
+    "order": 12
+  },
+  {
+    "id": "lg-14",
+    "name": "Argen",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/Argen.webp",
+    "order": 13
+  },
+  {
+    "id": "lg-15",
+    "name": "Cosmos",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/Cosmos.webp",
+    "order": 14
+  },
+  {
+    "id": "lg-16",
+    "name": "Diamond Protech",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/DP.webp",
+    "order": 15
+  },
+  {
+    "id": "lg-17",
+    "name": "Goel Group",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/Goel.webp",
+    "order": 16
+  },
+  {
+    "id": "lg-18",
+    "name": "GOG",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/GOG.webp",
+    "order": 17
+  }
 ]
