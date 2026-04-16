@@ -6,15 +6,15 @@
     "order": 0
   },
   {
-    "id": "lg-2",
-    "name": "NBC Bearings",
-    "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/nbc.webp",
-    "order": 1
-  },
-  {
     "id": "lg-4",
     "name": "SBI",
     "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/sbi_blue_logo.webp",
+    "order": 1
+  },
+  {
+    "id": "lg-2",
+    "name": "NBC Bearings",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/nbc.webp",
     "order": 2
   },
   {
