@@ -1,20 +1,20 @@
 [
   {
-    "id": "tm-1",
-    "name": "Laser Technologies",
-    "company": "Laser Technologies",
-    "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/LaserT.webp",
-    "message": "PDSN Media Agency provided tailored solutions that were exactly what we needed, bringing fresh ideas that truly elevated the outcome. Their commitment to quality and reliability made a significant impact on our projects, making the entire experience seamless and highly effective.",
-    "rating": 5,
-    "order": 0,
-    "createdAt": "2026-04-01T00:00:00.000Z"
-  },
-  {
     "id": "tm-2",
     "name": "Diamond Protech",
     "company": "Diamond Protech",
     "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/DP.webp",
     "message": "PDSN Media Agency's innovative solutions transformed our content, bringing a level of creativity and expertise that made a significant impact. Their collaborative spirit and dedication to quality made the entire process both enjoyable and successful. We highly recommend them for content services.",
+    "rating": 5,
+    "order": 0,
+    "createdAt": "2026-04-01T00:00:00.000Z"
+  },
+  {
+    "id": "tm-1",
+    "name": "Laser Technologies",
+    "company": "Laser Technologies",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/ops-pdsn/cdn-assets@main/logos/LaserT.webp",
+    "message": "PDSN Media Agency provided tailored solutions that were exactly what we needed, bringing fresh ideas that truly elevated the outcome. Their commitment to quality and reliability made a significant impact on our projects, making the entire experience seamless and highly effective.",
     "rating": 5,
     "order": 1,
     "createdAt": "2026-04-01T00:00:00.000Z"
